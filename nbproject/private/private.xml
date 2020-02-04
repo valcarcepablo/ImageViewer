@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/danil/OneDrive/Escritorio/ImagineViewer/src/view/ui/FarmMain.java</file>
+            <file>file:/C:/Users/danil/OneDrive/Escritorio/ImagineViewer/src/view/ui/ImagePanel.java</file>
+            <file>file:/C:/Users/danil/OneDrive/Escritorio/ImagineViewer/src/model/Image.java</file>
+            <file>file:/C:/Users/danil/OneDrive/Escritorio/ImagineViewer/src/view/persistence/GalleryLoader.java</file>
+            <file>file:/C:/Users/danil/OneDrive/Escritorio/ImagineViewer/src/view/persistence/ImageExtension.java</file>
+            <file>file:/C:/Users/danil/OneDrive/Escritorio/ImagineViewer/src/view/ui/PanelOpenMenu.java</file>
+            <file>file:/C:/Users/danil/OneDrive/Escritorio/ImagineViewer/src/application/App.java</file>
+            <file>file:/C:/Users/danil/OneDrive/Escritorio/ImagineViewer/src/view/ui/PanelBrowser.java</file>
+            <file>file:/C:/Users/danil/OneDrive/Escritorio/ImagineViewer/src/control/Command.java</file>
+            <file>file:/C:/Users/danil/OneDrive/Escritorio/ImagineViewer/src/control/PreviousImageCommand.java</file>
+            <file>file:/C:/Users/danil/OneDrive/Escritorio/ImagineViewer/src/view/persistence/ImageLoader.java</file>
+            <file>file:/C:/Users/danil/OneDrive/Escritorio/ImagineViewer/src/view/ui/DirectoryChooserDialog.java</file>
+            <file>file:/C:/Users/danil/OneDrive/Escritorio/ImagineViewer/src/control/NextImageCommand.java</file>
+            <file>file:/C:/Users/danil/OneDrive/Escritorio/ImagineViewer/src/control/LoadImageCommand.java</file>
+        </group>
+    </open-files>
+</project-private>
